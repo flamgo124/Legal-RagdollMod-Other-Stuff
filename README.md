@@ -4,6 +4,7 @@ Difference:
   No sounds when you ragdoll
   Doesn't mute your mic when ragdolled
   Only works in modded lobbies. (If I figure out how to do that..)
+  No annoying red tinted screen
 
 <img src="https://imgur.com/gallery/placeholders-Ksd6a#SR0YwEv">
 
