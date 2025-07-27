@@ -1,18 +1,18 @@
-# RagdollMod
+# LegalRagdollMod
 A mod for Gorilla Tag that lets you ragdoll like Garry's Mod.
 
-<img src="https://i.imgur.com/MZeNKbY.gif">
+<img src="https://imgur.com/gallery/placeholders-Ksd6a#SR0YwEv">
 
 ---
 
 # Controls
-- Toggle Death: Right Joystick Click / B
+- Toggle Death: Right Joystick Click / B on keyboard
 
 ---
 
 # Installation
 
-- Download the release from [here](https://github.com/iiDk-the-actual/RagdollMod/releases/latest)
+- Download the release from [here](https://github.com/flamgo124/Legal-RagdollMod-Other-Stuff/releases/latest)
 - Drag the file `RagdollMod.dll` to your plugins folder
 - Start Gorilla Tag if needed
 
