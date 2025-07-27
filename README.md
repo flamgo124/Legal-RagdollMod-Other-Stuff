@@ -1,5 +1,9 @@
 # LegalRagdollMod
-A mod for Gorilla Tag that lets you ragdoll like Garry's Mod.
+A fork of iidk-the-actual's illegal ragdoll mod but a little less annoying and not cheating.
+Difference:
+  No sounds when you ragdoll
+  Doesn't mute your mic when ragdolled
+  Only works in modded lobbies. (If I figure out how to do that..)
 
 <img src="https://imgur.com/gallery/placeholders-Ksd6a#SR0YwEv">
 
